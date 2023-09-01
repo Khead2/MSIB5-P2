@@ -1,1 +1,3 @@
 haii
+git config -- global user.email -> ----"----- settingan kedalam git kita
+git init -> digunakan, jika ingin komputer dengan github terhubung dan biasanya digunakan
